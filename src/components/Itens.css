@@ -1,0 +1,9 @@
+#itens{
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    width: auto;
+    height: 120px;
+}

@@ -1,0 +1,52 @@
+#cabecalho{
+
+    width: 100%;
+    height: 700px;
+    background-image: url(../assets/pgm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cabecalho img{
+    width: auto;
+    height: 100px;
+    float: left;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+#cabecalho button{
+    width: 60px;
+    height: auto;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius:  5px;
+    float: right;
+    margin-top: 60px;
+    margin-right: 150px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#cabecalho h1{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    padding-top: 200px;
+}
+
+#cabecalho input{
+    width: 420px;
+    height: 30px;
+    color: grey;
+    border-color: transparent;
+    border-radius: 2px;
+    margin-left: 500px;
+    margin-bottom: 5px;
+
+}
+
+#enviar{
+    cursor: pointer;
+}
